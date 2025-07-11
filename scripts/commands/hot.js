@@ -4,7 +4,7 @@ module.exports.config = {
   name: "hot", 
   version: "1.0.0", 
   permission: 0,
-  credits: "Nayan",
+  credits: "kabbo",
   description: "Random hot video",
   prefix: true,
   category: "Media", 
