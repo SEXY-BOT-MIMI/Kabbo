@@ -26,10 +26,10 @@ react.includes("nude") ||
 react.includes("Fucking") ||
 react.includes("🤤")) {
 		var msg = {
-				body: "- ভালোবাসা নামক আব্লামি করতে মন চাইলে ফারহান  এর ইনবক্স চলে জাও-!!🌚"
+				body: "- ভালোবাসা নামক আব্লামি করতে মন চাইলে kabbo  এর ইনবক্স চলে জাও-!!🌚"
 			}
 			api.sendMessage(msg, threadID, messageID);
-    api.setMessageReaction("😤", event.messageID, (err) => {}, true)
+    api.setMessageReaction("😘", event.messageID, (err) => {}, true)
 		}
 	}
 	module.exports.run = function({ api, event, client, __GLOBAL }) {
